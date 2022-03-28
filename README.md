@@ -8,22 +8,22 @@
 ## Github Stats  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MertCelik0&theme=radical" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MertCelik0" align="center" />
   
   <br/>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MertCelik0&show_icons=true&theme=radical" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MertCelik0&show_icons=true" align="center" />
   
   <br/>
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertCelik0&theme=radical" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertCelik0" align="center" />
   
   <br/>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertCelik0&theme=radical" align="center" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertCelik0" align="center" /> 
 </div>  
 
 <br/>  
