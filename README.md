@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -31,6 +31,10 @@
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=MertCelik0&show_icons=true&theme=radical" align="center" />
+  
+  <br/>
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertCelik0&theme=radical" align="center" />
   
   <br/>
